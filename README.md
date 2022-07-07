@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **TheOdinProject**
 
-- 🌱 I’m currently learning: **Full Stack Development with TheOdinProject & freeCodeCamp.**
+- 🌱 I’m currently learning: **Full Stack Development with TheOdinProject & freeCodeCamp**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/atwycodes](https://github.com/atwycodes)
 
