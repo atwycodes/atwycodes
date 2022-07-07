@@ -9,9 +9,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/atwycodes](https://github.com/atwycodes)
 
-- 👨‍💼 My Linkedin profile: [https://www.linkedin.com/in/atwy/](https://www.linkedin.com/in/atwy/)
-
-- 📫 How to reach me: **andrewwytan@gmail.com**
+- 📫 My email: **andrewwytan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
