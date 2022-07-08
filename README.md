@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning: **Full Stack Development with TheOdinProject & freeCodeCamp**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/atwycodes](https://github.com/atwycodes)
-
 - 📫 My email: **andrewwytan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
