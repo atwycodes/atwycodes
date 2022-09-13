@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andrew Tan</h1>
-<h3 align="center">A Civil Engineer with project management experience, passionate about software!</h3>
+<h1 align="center">Hi 👋, I'm Andrew.</h1>
+<h3 align="center">I'm a Civil Engineer with project management experience, passionate about software!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atwycodes&label=Profile%20views&color=077eed&style=flat-square" alt="atwycodes" /> </p>
 
