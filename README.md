@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew.</h1>
 <h3 align="center">I'm a Civil Engineer with project management experience, passionate about software!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atwycodes&label=Profile%20views&color=077eed&style=flat-square" alt="atwycodes" /> </p>
-
 - 🔭 I’m currently working on: **TheOdinProject**
 
 - 🌱 I’m currently learning: **Full Stack Development with TheOdinProject & freeCodeCamp**
