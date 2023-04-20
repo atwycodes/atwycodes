@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **ReactJS with TheOdinProject!**
 
-- 👨‍💻 All of my projects are available at [<placeholder>](<placeholder>)
+- 👨‍💻 You can view some of my projects at [my portfolio](https://atwycodes.github.io/portfolio/)
 
 - 📫 How to reach me **andrewwytan@gmail.com**
-
-- 📄 Know about my experiences [<placeholder>](<placeholder>)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
